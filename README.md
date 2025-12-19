@@ -5,6 +5,9 @@ Quick project to test Pipecat updates against examples for Speechmatics.
 ## Setup
 
 ```shell
+# Copy env file (and add your keys)
+cp .env.example .env
+
 # Install dependencies
 uv sync
 
