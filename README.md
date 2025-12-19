@@ -16,6 +16,7 @@ uv run examples/bot-sarah.py
 
 # Run an example (ElevenLabs TTS example)
 uv run examples/bot-humphrey.py
+uv run examples/bot-humphrey-adaptive.py
 ```
 
 Open a browser at `http://localhost:7860/client/` to connect to the bot.
