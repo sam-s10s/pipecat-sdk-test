@@ -12,7 +12,6 @@ dependencies = [
 
 [tool.uv.sources]
 pipecat-ai = { git = "https://github.com/speechmatics/pipecat.git", branch = "speechmatics-stt" }
-# pipecat-ai = { path = "../../pipecat", editable = true }
 
 [tool.uv]
 override-dependencies = [
